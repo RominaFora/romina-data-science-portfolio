@@ -5,7 +5,7 @@ Portfolio de Data Science con enfoque en creatividad, estrategia y tecnologìa. 
 Sobre mi
 
 Soy Data Science con formaciòn en Ciencias Econòmicas, finanzas y Estrategia de Negocio.
-Integro aàlisis cuantitativo, visiòn de negocio y creatividad para construir soluciones que aporten valor real.
+Integro anàlisis cuantitativo, visiòn de negocio y creatividad para construir soluciones que aporten valor real.
 
 ---
 
