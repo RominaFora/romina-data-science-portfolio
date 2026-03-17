@@ -1,4 +1,4 @@
-# romina-data-science-portfolio
+# Romina Fora - Data Science Portfolio
 Portfolio de Data Science con enfoque en creatividad, estrategia y tecnologia. Incluye modelos de forecasting, clasificaciòn de productos y anàlisis de sentimientos aplicados a contextos reales.
 ---
 
